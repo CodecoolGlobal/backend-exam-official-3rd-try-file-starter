@@ -1,6 +1,6 @@
 # Szó számoló
 ## Bevezetés
-Ebben a feladatban egy olyan metódust kell írnod ami egy fájlt dolgoz fell.
+Ebben a feladatban egy olyan metódust kell írnod ami egy fájlt dolgoz fel.
 
 Az alább meghatározott metódust a `wordcounter` csomagban (package) előre elkészített `hu.nive.ujratervezes.wordcounter.WordCounter` osztályban írd meg!
 
@@ -19,7 +19,7 @@ Implementáld az alábbi metódust:
   
 A mondat végi írásjel nem része a mondat utolsó szavának.
 
-## File felépitése
+## File felépítése
 Minden a metódus által feldolgozandó file mondatokat tartalmaz a mondat végén lévő írásjellel együtt.
 Egy sorban egy mondat van. 
 
